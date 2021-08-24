@@ -38,15 +38,3 @@ setInterval(() => {
 }, 1000);
 
 
-
-// let counter = 0;
-
-// function showTime() {
-//     const timeLabel = document.querySelector(".time");
-//     const time = new Date();
-//     timeLabel.innerHTML = time.toLocaleTimeString();
-//     counter ++;
-// }
-// const id = setInterval(showTime, 1000);
-
-
